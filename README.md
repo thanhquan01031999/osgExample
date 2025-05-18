@@ -1,2 +1,2 @@
-# osgExample
+# OSG Example
 osg Example
